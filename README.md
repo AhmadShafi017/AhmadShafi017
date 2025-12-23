@@ -21,3 +21,6 @@ I am a **Backend Developer** focused on building robust, high-integrity systems 
 ### 📫 Connect with me
 - **LinkedIn:** [Your LinkedIn Link Here]
 - **Location:** Dhaka, Bangladesh
+
+- ### 📊 My GitHub Stats
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadShafi017&show_icons=true&theme=radical)
