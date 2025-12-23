@@ -19,7 +19,7 @@ I am a **Backend Developer** focused on building robust, high-integrity systems 
 *A modular system featuring RegEx input validation, statistical math modules, and secure database connections.*
 
 ### 📫 Connect with me
-- **LinkedIn:** [Your LinkedIn Link Here]
+- **LinkedIn:** https://www.linkedin.com/in/ahmadshafi016
 - **Location:** Dhaka, Bangladesh
 
 - ### 📊 My GitHub Stats
