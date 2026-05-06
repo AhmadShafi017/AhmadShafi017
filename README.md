@@ -2,6 +2,11 @@
 
 I am a **Software Developer & Database Architect** specialized in building high-integrity, enterprise-scale systems. I focus on **PostgreSQL optimization**, **AI-agentic workflows**, and **Geospatial data visualization** to solve complex relational problems and reduce operational costs.
 
+### 🏢 Enterprise Experience
+- **SAP ERP Specialist:** Experienced in navigating and integrating complex enterprise resource planning environments.
+- **System Bridging:** Expert at building modern middleware and proxy layers to connect legacy ERP data with high-speed React/PostgreSQL dashboards.
+
+-
 ### 💻 Tech Stack
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
